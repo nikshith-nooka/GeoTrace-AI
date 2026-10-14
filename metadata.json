@@ -1,0 +1,9 @@
+{
+  "name": "GeoTrace AI - Zencoders",
+  "description": "An AI-powered environmental intelligence system for real-time AQI monitoring, predictive analysis, and healthy route planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
